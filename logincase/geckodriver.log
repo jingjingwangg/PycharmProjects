@@ -1,0 +1,64 @@
+1529398860188	geckodriver	INFO	Listening on 127.0.0.1:53512
+1529398863248	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.0TilHCB82HX6
+1529398863249	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529398863253	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53524
+1529398950477	geckodriver	INFO	Listening on 127.0.0.1:53796
+1529398953540	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.jRPgOLeP9lIW
+1529398953541	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529398953545	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53808
+1529399137523	geckodriver	INFO	Listening on 127.0.0.1:54092
+1529399140553	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.UwpsCUZddjDy
+1529399140554	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399140559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54108
+1529399141418	Marionette	INFO	Listening on port 54108
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529399258289	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1529399265355	geckodriver	INFO	Listening on 127.0.0.1:54350
+1529399268422	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.Bl6fXHte1zkh
+1529399268423	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399268428	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54362
+1529399269460	Marionette	INFO	Listening on port 54362
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529399359530	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1529399539123	geckodriver	INFO	Listening on 127.0.0.1:54831
+1529399542195	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.z265t8OQTtx1
+1529399542197	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399542201	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54844
+1529399543138	Marionette	INFO	Listening on port 54844
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529399672658	geckodriver	INFO	Listening on 127.0.0.1:55056
+1529399675704	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.Xrw2AlDP8kej
+1529399675706	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399675710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55068
+1529399676736	Marionette	INFO	Listening on port 55068
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529399693365	geckodriver	INFO	Listening on 127.0.0.1:55125
+1529399696392	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.J36v3s2vcKm9
+1529399696393	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399696398	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55137
+1529399697404	Marionette	INFO	Listening on port 55137
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529399713902	geckodriver	INFO	Listening on 127.0.0.1:55194
+1529399716952	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.Kq481zeZeapr
+1529399716953	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399716957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55206
+1529399717865	Marionette	INFO	Listening on port 55206
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529399735892	geckodriver	INFO	Listening on 127.0.0.1:55265
+1529399738942	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.dO3s5lTNsJV9
+1529399738944	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399738948	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55277
+1529399739891	Marionette	INFO	Listening on port 55277
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529399846004	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.SIrfTSjLQiFi
+1529399816064	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529399816068	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55443
+1529399816908	Marionette	INFO	Listening on port 55443
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead

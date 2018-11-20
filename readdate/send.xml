@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<logintest>
+    <userinfo>
+        <sender1>apple198942@126.com</sender1>
+        <receiver1>952301329@qq.com</receiver1>
+        <subject1>test reporter</subject1>
+        <smtpserver1>smtp.126.com</smtpserver1>
+        <username1>apple198942@126.com</username1>
+        <password1>mangguo1989</password1>
+    </userinfo>
+</logintest>

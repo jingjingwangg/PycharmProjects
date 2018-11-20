@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<logintest>
+    <userinfo1>
+        <username1> </username1>
+        <username2>admin</username2>
+        <username3>admin</username3>
+        <username4>admin1</username4>
+        <username5>admin</username5>
+        <password1>Afb123</password1>
+        <password2>Afb12</password2>
+        <password3> </password3>
+        <password4>Afb123</password4>
+        <password5>Afb123</password5>
+        <type1>xpath</type1>
+        <type2>xpath</type2>
+        <type3>xpath</type3>
+        <type4>xpath</type4>
+        <type5>xpath</type5>
+        <values1>html/body/div[1]/form/div/button</values1>
+        <values2>html/body/div[1]/form/div/button</values2>
+        <values3>html/body/div[1]/form/div/button</values3>
+        <values4>html/body/div[1]/form/div/button</values4>
+        <values5>.//*[@id='adminContent']/header/div[2]/ul/li[7]/a/span</values5>
+        <except1>登录</except1>
+        <except2>登录</except2>
+        <except3>登录</except3>
+        <except4>登录</except4>
+        <except5>管理员</except5>
+    </userinfo1>
+</logintest>

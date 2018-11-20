@@ -1,0 +1,6 @@
+1529401458147	geckodriver	INFO	Listening on 127.0.0.1:58259
+1529401461187	mozprofile::profile	INFO	Using profile path C:\Users\wjj\AppData\Local\Temp\rust_mozprofile.tpZGSKc6pqBy
+1529401461188	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1529401461192	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58271
+1529401462580	Marionette	INFO	Listening on port 58271
+JavaScript warning: http://b.anfubaoxian.cn/resources/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
